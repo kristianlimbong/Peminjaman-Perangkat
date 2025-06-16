@@ -1,0 +1,25 @@
+peminjaman/
+├── config/
+│   └── db.php
+├── includes/
+│   ├── header.php
+│   └── footer.php
+├── perangkat/
+│   ├── tambah.php
+│   ├── edit.php
+│   └── hapus.php
+├── peminjaman/
+│   ├── form.php
+│   ├── proses.php
+│   ├── riwayat.php
+│   └── validasi.php
+├── assets/
+│   ├── css/
+│   └── js/
+├── index.php
+├── login.php
+├── logout.php
+├── dashboard.php
+├── README.md
+├── .gitignore
+└── database.sql
